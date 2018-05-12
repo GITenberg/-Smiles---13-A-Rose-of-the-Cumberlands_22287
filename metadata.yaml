@@ -1,0 +1,33 @@
+_repo: -Smiles---13-A-Rose-of-the-Cumberlands_22287
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Taylor, Henry Weston
+    alias: Taylor, H. Weston (Henry Weston)
+    birthdate: 1881
+    gutenberg_agent_id: '25234'
+    url: http://www.gutenberg.org/2009/agents/25234
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Eliot H. (Eliot Harlow)
+    birthdate: 1884
+    gutenberg_agent_id: '25235'
+    url: http://www.gutenberg.org/2009/agents/25235
+description: ''
+gutenberg_issued: '2007-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22287'
+  lccn: '19008989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcc 'PS'
+title: '''Smiles'': A Rose of the Cumberlands'
+url: http://www.gutenberg.org/ebooks/22287
